@@ -1,0 +1,2984 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fineliner Theme\n"
+"POT-Creation-Date: 2016-09-25 19:06+0700\n"
+"PO-Revision-Date: 2016-09-25 19:06+0700\n"
+"Last-Translator: Paul <paul@uxbarn.com>\n"
+"Language-Team: UXbarn <support@uxbarn.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_html__;esc_html_e;"
+"esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:7
+msgid "404 <span>Page Not Found</span>"
+msgstr ""
+
+#: ../404.php:9
+msgid "The requested page could not be found or it is currently unavailable."
+msgstr ""
+
+#: ../404.php:11
+#, php-format
+msgid ""
+"Please <a href=\"%s\">click here</a> to go back to our home page or use the "
+"search form below."
+msgstr ""
+
+#: ../comments.php:14 ../includes/theme-functions.php:853
+#: ../template-blog-meta.php:94
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:14 ../template-blog-meta.php:94
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:50
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:52
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:54 ../includes/plugin-codes/custom-uxbarn-portfolio.php:548
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:60
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:66
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../comments.php:68
+msgid "<span class=\"cancel-reply\">Cancel Reply</span>"
+msgstr ""
+
+#: ../comments.php:70
+msgid "Submit"
+msgstr ""
+
+#: ../comments.php:72
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:74
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../footer.php:100
+msgid ""
+"&copy; Fineliner. Premium Theme by <a href=\"http://themeforest.net/user/"
+"UXbarn?ref=UXbarn\">UXBARN</a>."
+msgstr ""
+
+#: ../header.php:161
+msgid "Type and hit enter to search ..."
+msgstr ""
+
+#: ../header.php:174 ../includes/style-customizer/sections/menu.php:22
+msgid "Menu"
+msgstr ""
+
+#: ../header.php:260
+msgid "No Image"
+msgstr ""
+
+#: ../header.php:336
+msgid "No Slide"
+msgstr ""
+
+#: ../header.php:338
+msgid ""
+"You have not yet added any slide. Please go to \"Home Slider > Add New Slide"
+"\" menu to add ones."
+msgstr ""
+
+#: ../header.php:371
+msgid ""
+"You have not yet specify which LayerSlider to be used here. Please go to: "
+"\"Theme Options > Home Slider > LayerSlider Shortcode\"."
+msgstr ""
+
+#: ../includes/assets.php:140
+msgid "Back"
+msgstr ""
+
+#: ../includes/assets.php:248
+msgid ""
+"\"Default Sidebar\" is the sidebar that you have set in \"Settings > Reading"
+"\" on your admin panel."
+msgstr ""
+
+#: ../includes/assets.php:249
+msgid ""
+"This is for page sidebar only. For blog sidebar, you can see the option in "
+"\"Theme Options > Blog\"."
+msgstr ""
+
+#: ../includes/assets.php:266
+msgid ""
+"<p>Layout is just like \"Profile\" of Theme Options. You can use this page "
+"to manage the layouts then they will display for selection on Theme Options "
+"page.</p><p>For example, if you have created 2 layouts which are \"Layout A"
+"\" and \"Layout B\". It means that you now have 2 profiles appeared on Theme "
+"Options page. You can then set different options for each layout such as, "
+"for \"Layout A\" you want to display site tagline while \"Layout B\" you "
+"want to hide it.</p>"
+msgstr ""
+
+#: ../includes/assets.php:285
+msgid "What is Layout?"
+msgstr ""
+
+#: ../includes/assets.php:286
+msgid ""
+"Layout is just like \"Profile\" of Theme Options so you can create many "
+"variations of Theme Options with one active layout at a time. For example, "
+"if you have created 2 layouts which are \"Layout A\" and \"Layout B\". It "
+"means that you now have 2 profiles appeared on Theme Options page. You can "
+"then set different options for each layout such as, for \"Layout A\" you "
+"want to display site tagline while \"Layout B\" you want to hide it. *You "
+"can manage the created layout list by going to the \"OptionTree > Layouts\"."
+msgstr ""
+
+#: ../includes/comment-item.php:42
+msgid "Edit"
+msgstr ""
+
+#: ../includes/comment-item.php:45
+msgid "Reply"
+msgstr ""
+
+#: ../includes/comment-item.php:55
+#, php-format
+msgctxt "1 = date, 2 = time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../includes/comment-item.php:60
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../includes/custom-widgets.php:8
+msgid "[UX] Recent Posts"
+msgstr ""
+
+#: ../includes/custom-widgets.php:9
+msgid ""
+"Displays a list of recent posts. This widget is built in the theme itself."
+msgstr ""
+
+#: ../includes/custom-widgets.php:15
+msgid "Recent Posts"
+msgstr ""
+
+#: ../includes/custom-widgets.php:24 ../includes/custom-widgets.php:183
+#: ../includes/custom-widgets.php:258 ../includes/custom-widgets.php:325
+#: ../includes/custom-widgets.php:442 ../includes/custom-widgets.php:514
+msgid "Title:"
+msgstr ""
+
+#: ../includes/custom-widgets.php:28
+msgid "Post title length:"
+msgstr ""
+
+#: ../includes/custom-widgets.php:32
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../includes/custom-widgets.php:37
+msgid "Show post thumbnail?"
+msgstr ""
+
+#: ../includes/custom-widgets.php:41
+msgid "Show post date?"
+msgstr ""
+
+#: ../includes/custom-widgets.php:44
+msgid "Select specific categories to be shown:"
+msgstr ""
+
+#: ../includes/custom-widgets.php:46
+msgid "(*Uncheck all will show every category)"
+msgstr ""
+
+#: ../includes/custom-widgets.php:169
+msgid "[UX] Flickr Photos"
+msgstr ""
+
+#: ../includes/custom-widgets.php:170
+msgid ""
+"Displays a list of photos from Flickr. This widget is built in the theme "
+"itself."
+msgstr ""
+
+#: ../includes/custom-widgets.php:176
+msgid "Flickr Photos"
+msgstr ""
+
+#: ../includes/custom-widgets.php:187
+msgid "Flickr ID:"
+msgstr ""
+
+#: ../includes/custom-widgets.php:189
+msgid "Don't know your ID?"
+msgstr ""
+
+#: ../includes/custom-widgets.php:189 ../includes/custom-widgets.php:525
+msgid "Click here"
+msgstr ""
+
+#: ../includes/custom-widgets.php:193
+msgid "Number of photos to show:"
+msgstr ""
+
+#: ../includes/custom-widgets.php:200
+msgid "Random orders?"
+msgstr ""
+
+#: ../includes/custom-widgets.php:246
+msgid "[UX] Video"
+msgstr ""
+
+#: ../includes/custom-widgets.php:247
+msgid ""
+"Displays a video from YouTube or Vimeo. This widget is built in the theme "
+"itself."
+msgstr ""
+
+#: ../includes/custom-widgets.php:253
+msgid "Video"
+msgstr ""
+
+#: ../includes/custom-widgets.php:262
+msgid "Video URL:"
+msgstr ""
+
+#: ../includes/custom-widgets.php:266
+msgid ""
+"Enter the URL to your YouTube or Vimeo video here. <br/><br/>For example, "
+"<strong>http://www.youtube.com/watch?v=G_G8SdXktHg</strong> for YouTube. Or, "
+"<strong>http://www.vimeo.com/7449107</strong> for Vimeo."
+msgstr ""
+
+#: ../includes/custom-widgets.php:306
+msgid "[UX] Contact Info"
+msgstr ""
+
+#: ../includes/custom-widgets.php:307
+msgid "Displays contact information. This widget is built in the theme itself."
+msgstr ""
+
+#: ../includes/custom-widgets.php:313
+msgid "Contact Info"
+msgstr ""
+
+#: ../includes/custom-widgets.php:329
+msgid "Logo URL:"
+msgstr ""
+
+#: ../includes/custom-widgets.php:333
+msgid "Contact Person:"
+msgstr ""
+
+#: ../includes/custom-widgets.php:337
+msgid "Description:"
+msgstr ""
+
+#: ../includes/custom-widgets.php:341 ../includes/custom-widgets.php:528
+msgid "Address:"
+msgstr ""
+
+#: ../includes/custom-widgets.php:345 ../includes/custom-widgets.php:411
+msgid "Phone:"
+msgstr ""
+
+#: ../includes/custom-widgets.php:349 ../includes/custom-widgets.php:412
+msgid "Mobile:"
+msgstr ""
+
+#: ../includes/custom-widgets.php:353 ../includes/custom-widgets.php:413
+msgid "Fax:"
+msgstr ""
+
+#: ../includes/custom-widgets.php:357 ../includes/custom-widgets.php:414
+msgid "Email:"
+msgstr ""
+
+#: ../includes/custom-widgets.php:429
+msgid "[UX] Banner"
+msgstr ""
+
+#: ../includes/custom-widgets.php:430
+msgid ""
+"Widget for placing your image banner. This widget is built in the theme "
+"itself."
+msgstr ""
+
+#: ../includes/custom-widgets.php:436
+msgid "Banner"
+msgstr ""
+
+#: ../includes/custom-widgets.php:446
+msgid "Image URL:"
+msgstr ""
+
+#: ../includes/custom-widgets.php:450
+msgid "Link URL:"
+msgstr ""
+
+#: ../includes/custom-widgets.php:498
+msgid "[UX] Google Maps"
+msgstr ""
+
+#: ../includes/custom-widgets.php:499
+msgid ""
+"Displays a map of specified location using Google Maps. This widget is built "
+"in the theme itself."
+msgstr ""
+
+#: ../includes/custom-widgets.php:505 ../includes/theme-options.php:53
+msgid "Google Maps"
+msgstr ""
+
+#: ../includes/custom-widgets.php:518
+msgid "Latitude:"
+msgstr ""
+
+#: ../includes/custom-widgets.php:522
+msgid "Longitude:"
+msgstr ""
+
+#: ../includes/custom-widgets.php:525
+msgid "Don't know your latitude and longitude?"
+msgstr ""
+
+#: ../includes/custom-widgets.php:531
+msgid ""
+"If this address field is left blank, the latitude and longitude will be "
+"used. Otherwise, theme will use this entered address to render a map instead."
+msgstr ""
+
+#: ../includes/custom-widgets.php:534
+msgid "Zoom Level (7-20):"
+msgstr ""
+
+#: ../includes/custom-widgets.php:538
+msgid "Map Height:"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:22
+msgid "Slide Settings"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:30
+msgid "Caption Display"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:31
+msgid "Whether to show the caption of this slide."
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:42
+#: ../includes/meta-boxes/meta-homeslider.php:181
+#: ../includes/meta-boxes/meta-page.php:42
+#: ../includes/meta-boxes/meta-post.php:113
+#: ../includes/meta-boxes/meta-post.php:137
+#: ../includes/meta-boxes/meta-post.php:161
+#: ../includes/meta-boxes/meta-post.php:185
+#: ../includes/meta-boxes/meta-post.php:209
+#: ../includes/meta-boxes/meta-post.php:233
+#: ../includes/plugin-codes/vc/custom-mappings.php:134
+#: ../includes/plugin-codes/vc/custom-mappings.php:148
+#: ../includes/style-customizer/sections/site-background.php:114
+#: ../includes/theme-options.php:124 ../includes/theme-options.php:149
+#: ../includes/theme-options.php:174 ../includes/theme-options.php:199
+#: ../includes/theme-options.php:224 ../includes/theme-options.php:254
+#: ../includes/theme-options.php:348 ../includes/theme-options.php:390
+#: ../includes/theme-options.php:435 ../includes/theme-options.php:490
+#: ../includes/theme-options.php:517 ../includes/theme-options.php:544
+#: ../includes/theme-options.php:571 ../includes/theme-options.php:598
+#: ../includes/theme-options.php:625 ../includes/theme-options.php:652
+#: ../includes/theme-options.php:682 ../includes/theme-options.php:1493
+#: ../includes/theme-options.php:1587
+msgid "Yes"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:47
+#: ../includes/meta-boxes/meta-homeslider.php:186
+#: ../includes/meta-boxes/meta-page.php:47
+#: ../includes/meta-boxes/meta-post.php:118
+#: ../includes/meta-boxes/meta-post.php:142
+#: ../includes/meta-boxes/meta-post.php:166
+#: ../includes/meta-boxes/meta-post.php:190
+#: ../includes/meta-boxes/meta-post.php:214
+#: ../includes/meta-boxes/meta-post.php:238
+#: ../includes/plugin-codes/vc/custom-mappings.php:135
+#: ../includes/plugin-codes/vc/custom-mappings.php:149
+#: ../includes/plugin-codes/vc/custom-vc.php:603
+#: ../includes/style-customizer/sections/site-background.php:113
+#: ../includes/theme-options.php:129 ../includes/theme-options.php:154
+#: ../includes/theme-options.php:179 ../includes/theme-options.php:204
+#: ../includes/theme-options.php:229 ../includes/theme-options.php:259
+#: ../includes/theme-options.php:353 ../includes/theme-options.php:395
+#: ../includes/theme-options.php:440 ../includes/theme-options.php:495
+#: ../includes/theme-options.php:522 ../includes/theme-options.php:549
+#: ../includes/theme-options.php:576 ../includes/theme-options.php:603
+#: ../includes/theme-options.php:630 ../includes/theme-options.php:657
+#: ../includes/theme-options.php:687 ../includes/theme-options.php:1498
+#: ../includes/theme-options.php:1592
+msgid "No"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:54
+msgid "Caption Text"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:55
+msgid ""
+"Caption text to be displayed. For caption title, use the Title field above."
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:66
+msgid "Caption Position"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:67
+msgid "Select where to display the caption."
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:77
+msgid "Left"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:82
+msgid "Right"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:89
+msgid "Caption Color"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:90
+msgid "Select the color for the caption."
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:100
+msgid "Black"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:105
+msgid "White"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:110
+#: ../includes/theme-options.php:929
+msgid "Custom"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:117
+msgid "Caption Custom Color"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:118
+msgid "Select the custom color for the caption."
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:130
+msgid "Button Text"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:131
+msgid ""
+"Enter the text for the button which is part of the caption. This text is "
+"optional. <strong>If you leave this blank, the button will not be displayed."
+"</strong>"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:142
+msgid "Button URL"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:143
+msgid "Enter the target URL for the button. For example: http://www.uxbarn.com"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:154
+msgid "Open In New Window/Tab?"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:155
+msgid "Whether to open the specified URL in a new window or tab."
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:169
+msgid "Border Display"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:170
+msgid "Whether to display a border for this slide."
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:193
+msgid "Border Color"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:194
+msgid "Select the border color for this slide."
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:220
+msgid "Slide Order Settings"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:228
+msgid "Slide Order Number"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-homeslider.php:229
+msgid "Enter a number for ordering the slide. Only number is allowed."
+msgstr ""
+
+#: ../includes/meta-boxes/meta-page.php:22
+msgid "Page Intro Settings"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-page.php:30
+msgid "Page Intro Display"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-page.php:31
+msgid ""
+"Whether to show the Page Intro which will be displayed at the top of this "
+"page."
+msgstr ""
+
+#: ../includes/meta-boxes/meta-page.php:54
+msgid "Intro Title"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-page.php:55
+msgid ""
+"If it is left blank, general page title will be used instead. You can also "
+"use HTML \"span\" tag wrapping words in the title to highlight with the "
+"accent color."
+msgstr ""
+
+#: ../includes/meta-boxes/meta-page.php:66
+msgid "Intro Body Text"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-page.php:67
+msgid "To be displayed as a Page Intro's body."
+msgstr ""
+
+#: ../includes/meta-boxes/meta-page.php:93
+msgid "Sidebar Setting"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-page.php:101
+msgid "Sidebar Appearance"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-page.php:113
+msgid "Hide sidebar selected above"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-page.php:118 ../includes/theme-options.php:465
+#: ../includes/theme-options.php:1527
+msgid "Right side"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-page.php:123 ../includes/theme-options.php:470
+#: ../includes/theme-options.php:1532
+msgid "Left side"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-post.php:23
+msgid "Post Excerpt Settings"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-post.php:31
+msgid "Post Excerpt"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-post.php:32
+msgid ""
+"This post excerpt will be used as a summarized description for your blog "
+"post. It will be displayed on the blog post list. <p>If you leave this "
+"blank, the very first post content will be used to display instead.</p>"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-post.php:58
+msgid "Alternate Content Settings"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-post.php:66
+msgid "Alternate Thumbnail for Blog Posts Element"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-post.php:67
+msgid ""
+"By default, when using Blog Posts Element (via Visual Composer) on a page, "
+"it will use Featured Image for each post thumbnail. If you want to use the "
+"different thumbnail for the element, you can use this option.<br/><br/>Note "
+"that if you leave this blank, the element will use Featured Image for the "
+"thumbnail (default)."
+msgstr ""
+
+#: ../includes/meta-boxes/meta-post.php:93
+msgid "Meta Info / Other Settings"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-post.php:101 ../includes/theme-options.php:503
+msgid "Show date?"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-post.php:102 ../includes/theme-options.php:504
+msgid "Whether to display the date on blog posts page and single page."
+msgstr ""
+
+#: ../includes/meta-boxes/meta-post.php:125 ../includes/theme-options.php:530
+msgid "Show author name?"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-post.php:126 ../includes/theme-options.php:531
+msgid "Whether to display the author name on blog posts page and single page."
+msgstr ""
+
+#: ../includes/meta-boxes/meta-post.php:149 ../includes/theme-options.php:557
+msgid "Show categories?"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-post.php:150 ../includes/theme-options.php:558
+msgid "Whether to display the categories on blog posts page and single page."
+msgstr ""
+
+#: ../includes/meta-boxes/meta-post.php:173 ../includes/theme-options.php:584
+msgid "Show comment count?"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-post.php:174 ../includes/theme-options.php:585
+msgid ""
+"Whether to display the comment count on blog posts page and single page."
+msgstr ""
+
+#: ../includes/meta-boxes/meta-post.php:197 ../includes/theme-options.php:611
+msgid "Show author box on single page?"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-post.php:198 ../includes/theme-options.php:612
+msgid "Whether to display the author box on the post single page."
+msgstr ""
+
+#: ../includes/meta-boxes/meta-post.php:221 ../includes/theme-options.php:638
+msgid "Show tags on single page?"
+msgstr ""
+
+#: ../includes/meta-boxes/meta-post.php:222 ../includes/theme-options.php:639
+msgid "Whether to display the tags list on the post single page."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:393
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:912
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2618
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:394
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:395
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:1019
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2634
+#: ../includes/plugin-codes/vc/custom-mappings.php:78
+msgid "Type"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:3594
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:3594
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../includes/plugin-codes/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:52
+msgid "Meta Box for Image/Slideshow Format"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:60
+msgid "Images"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:61
+msgid ""
+"Use this setting to add images and rearrange the order by drag and drop. You "
+"can upload the image at any size. The full size of the image will be "
+"displayed on lightbox (when it is clicked). What is shown on the front end "
+"is a scaled version.<br/><br/>Note that the \"Title\" field will only be "
+"used here. On the front end, the theme will use the \"alt\", \"title\" and "
+"\"caption\" values from the image itself."
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:72
+msgid "Image"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:86
+msgid "Layout Mode"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:87
+msgid "Select which layout to use for the single page."
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:97
+msgid "Landscape"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:102
+msgid "Portrait"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:126
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:128
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:129
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:130
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:131
+msgid "New Portfolio Item"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:132
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:133
+msgid "All Portfolio Items"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:134
+msgid "View Portfolio"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:135
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:136
+#: ../includes/plugin-codes/custom-uxbarn-team.php:39
+#: ../includes/plugin-codes/custom-uxbarn-testimonials.php:39
+#: ../includes/post-types.php:19
+msgid "Nothing found"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:137
+#: ../includes/plugin-codes/custom-uxbarn-team.php:40
+#: ../includes/plugin-codes/custom-uxbarn-testimonials.php:40
+#: ../includes/post-types.php:20
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:140
+msgid "Portfolio of your business"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:147
+msgid "portfolio"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:163
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:165
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:172
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:166
+msgid "Search Categories"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:167
+msgid "All Categories"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:168
+msgid "Edit Category"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:169
+msgid "Update Category"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:170
+msgid "Add New Category"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:174
+msgid "portfolio-category"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:216
+msgid "Cannot generate Portfolio element. Categories must be defined."
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:277
+msgid "There are no portfolio items available in the selected categories."
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:284 ../single.php:70
+#: ../uxb_templates/single-portfolio.php:388
+#: ../uxb_templates/taxonomy-portfolio.php:9
+msgid "Loading"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:292
+msgid "All"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:340
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:402
+#: ../includes/plugin-codes/custom-uxbarn-testimonials.php:144
+#: ../uxb_templates/single-portfolio.php:399
+#: ../uxb_templates/taxonomy-portfolio.php:23
+msgid "No Thumbnail"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:541
+#: ../template-blog-meta.php:57
+msgid "Date"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-portfolio.php:544
+msgid "Client"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-team.php:29
+#: ../includes/plugin-codes/custom-uxbarn-team.php:43
+msgid "Team"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-team.php:31
+msgid "Team Member"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-team.php:32
+#: ../includes/plugin-codes/custom-uxbarn-team.php:33
+msgid "Add New Member"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-team.php:34
+msgid "New Member"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-team.php:35
+msgid "Edit Member"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-team.php:36
+msgid "All Members"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-team.php:37
+msgid "View"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-team.php:38
+msgid "Search Member"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-team.php:50
+msgid "team"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-testimonials.php:29
+msgid "Testimonials"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-testimonials.php:31
+msgid "Testimonial"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-testimonials.php:32
+#: ../includes/plugin-codes/custom-uxbarn-testimonials.php:33
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-testimonials.php:34
+msgid "New Testimonial"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-testimonials.php:35
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-testimonials.php:36
+msgid "All Testimonials"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-testimonials.php:37
+msgid "View Testimonials"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-testimonials.php:38
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-testimonials.php:43
+msgid "Testimonials of your business"
+msgstr ""
+
+#: ../includes/plugin-codes/custom-uxbarn-testimonials.php:86
+msgid ""
+"Cannot create the Testimonials element. You need to select any items first."
+msgstr ""
+
+#: ../includes/plugin-codes/envato-market-github.php:80
+#: ../includes/plugin-codes/envato-market-github.php:90
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: ../includes/plugin-codes/envato-market-github.php:284
+#, php-format
+msgid ""
+"%sActivate the Envato Market plugin%s to get updates for your ThemeForest "
+"and CodeCanyon items."
+msgstr ""
+
+#: ../includes/plugin-codes/envato-market-github.php:295
+#, php-format
+msgid ""
+"%sInstall the Envato Market plugin%s to get updates for your ThemeForest and "
+"CodeCanyon items."
+msgstr ""
+
+#: ../includes/plugin-codes/plugin-custom-functions.php:177
+#: ../includes/theme-options.php:1510
+msgid "Shop Page Sidebar"
+msgstr ""
+
+#: ../includes/plugin-codes/plugin-custom-functions.php:179
+msgid "Sidebar for WooCommerce shop and archive page."
+msgstr ""
+
+#: ../includes/plugin-codes/plugin-custom-functions.php:406
+#: ../includes/plugin-codes/plugin-custom-functions.php:407
+msgid "Theme Options"
+msgstr ""
+
+#: ../includes/plugin-codes/plugin-custom-functions.php:412
+msgid "Theme Options updated."
+msgstr ""
+
+#: ../includes/plugin-codes/plugin-custom-functions.php:413
+msgid "Theme Options reset."
+msgstr ""
+
+#: ../includes/plugin-codes/plugin-custom-functions.php:414
+msgid "Save Changes"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:49
+msgid "Blog Posts (Theme Custom)"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:52
+msgid "Theme Custom"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:58
+msgid "Blog categories"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:61
+msgid "Select the categories from the list."
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:68
+msgid "Maximum number of items to be displayed"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:71
+msgid ""
+"Enter a number to limit the max number of items to be listed. Leave it blank "
+"to show all items from the selected categories above. Only number is allowed."
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:81
+msgid "Columns Grid"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:82
+msgid "List Items"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:85
+msgid "Select the display type."
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:92
+msgid "Columns"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:95
+#: ../includes/theme-options.php:717 ../includes/theme-options.php:1551
+msgid "3 Columns"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:96
+#: ../includes/theme-options.php:722 ../includes/theme-options.php:1556
+msgid "4 Columns"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:99
+msgid "Select the number of columns."
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:110
+msgid "Grid item display"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:113
+msgid "Thumbnail + Title + Excerpt"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:114
+msgid "Title + Thumbnail + Excerpt"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:116
+msgid "Thumbnail + Title"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:119
+msgid "Select the display for each item."
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:131
+msgid "Display thumbnail?"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:138
+msgid "Whether to display post thumbnails."
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:145
+msgid "Display post meta info?"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:152
+msgid "Whether to display the meta info of each post (date and comment count)"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:159
+msgid "Order by"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:162
+msgid "ID"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:163
+#: ../includes/post-types.php:51
+msgid "Title"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:164
+msgid "Slug"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:165
+msgid "Published Date"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:166
+msgid "Modified Date"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:167
+msgid "Random"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:170
+msgid ""
+"Select the which parameter to be used for ordering. <a href=\"http://codex."
+"wordpress.org/Class_Reference/WP_Query#Order_.26_Orderby_Parameters\" target="
+"\"_blank\">See more info here</a>"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:177
+#: ../includes/post-types.php:50
+msgid "Order"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:180
+msgid "Ascending"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:181
+msgid "Descending"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:184
+msgid ""
+"<a href=\"http://codex.wordpress.org/Class_Reference/"
+"WP_Query#Order_.26_Orderby_Parameters\" target=\"_blank\">See more info "
+"here</a>"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:191
+#: ../includes/plugin-codes/vc/custom-vc.php:518
+#: ../includes/plugin-codes/vc/custom-vc.php:630
+msgid "Extra class name"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-mappings.php:194
+#: ../includes/plugin-codes/vc/custom-vc.php:633
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-vc.php:450
+msgid "Address"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-vc.php:453
+msgid ""
+"By default, the theme will use this address field as a primary value for "
+"generating the map. For example: <em>Tillary St., New York, US</em>. <br/"
+"><strong>NOTE:</strong> In case you want to use latitude and logitude values "
+"below, just leave this field blank."
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-vc.php:458
+msgid "Latitude"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-vc.php:461
+msgid ""
+"Enter the latitude value. <a href=\"http://itouchmap.com/latlong.html\" "
+"target=\"_blank\">Click here to find yours</a>"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-vc.php:466
+msgid "Logitude"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-vc.php:469
+msgid ""
+"Enter the longitude value. <a href=\"http://itouchmap.com/latlong.html\" "
+"target=\"_blank\">Click here to find yours</a>"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-vc.php:474
+msgid "Zoom level"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-vc.php:492
+msgid "Select the zoom level."
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-vc.php:498
+msgid "Display type"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-vc.php:501
+msgid "Roadmap"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-vc.php:502
+msgid "Satellite"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-vc.php:503
+msgid "Hybrid"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-vc.php:504
+msgid "Terrain"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-vc.php:506
+msgid "Choose the display type."
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-vc.php:511
+msgid "Height"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-vc.php:514
+msgid "Enter the height in pixel unit. Enter only a number."
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-vc.php:520
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-vc.php:541
+msgid "Theme's Default Style"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-vc.php:599
+msgid "CSS Animation"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-vc.php:604
+msgid "Top to bottom"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-vc.php:605
+msgid "Bottom to top"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-vc.php:606
+msgid "Left to right"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-vc.php:607
+msgid "Right to left"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-vc.php:608
+msgid "Appear from center"
+msgstr ""
+
+#: ../includes/plugin-codes/vc/custom-vc.php:610
+msgid ""
+"Select animation type if you want this element to be animated when it enters "
+"into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: ../includes/post-types.php:9
+#: ../includes/style-customizer/sections/home-slider.php:21
+#: ../includes/theme-options.php:33
+msgid "Home Slider"
+msgstr ""
+
+#: ../includes/post-types.php:11 ../includes/theme-options.php:311
+msgid "Slide"
+msgstr ""
+
+#: ../includes/post-types.php:12 ../includes/post-types.php:13
+msgid "Add New Slide"
+msgstr ""
+
+#: ../includes/post-types.php:14
+msgid "New Slide"
+msgstr ""
+
+#: ../includes/post-types.php:15
+msgid "Edit Slide"
+msgstr ""
+
+#: ../includes/post-types.php:16
+msgid "All Slides"
+msgstr ""
+
+#: ../includes/post-types.php:17
+msgid "View Slide"
+msgstr ""
+
+#: ../includes/post-types.php:18
+msgid "Search Slides"
+msgstr ""
+
+#: ../includes/post-types.php:23
+msgid "Slides that will be displayed on homepage."
+msgstr ""
+
+#: ../includes/post-types.php:52
+msgid "Thumbnail"
+msgstr ""
+
+#: ../includes/style-customizer/custom-controls.php:60
+msgid "- Font Family -"
+msgstr ""
+
+#: ../includes/style-customizer/custom-controls.php:87
+msgid "- Size -"
+msgstr ""
+
+#: ../includes/style-customizer/custom-controls.php:114
+msgid "- Style -"
+msgstr ""
+
+#: ../includes/style-customizer/custom-controls.php:141
+msgid "- Weight -"
+msgstr ""
+
+#: ../includes/style-customizer/custom-controls.php:168
+msgid "- Line Height -"
+msgstr ""
+
+#: ../includes/style-customizer/custom-controls.php:195
+msgid "- Repeat -"
+msgstr ""
+
+#: ../includes/style-customizer/custom-controls.php:222
+msgid "- Position -"
+msgstr ""
+
+#: ../includes/style-customizer/customizer-functions.php:23
+#: ../includes/style-customizer/customizer-functions.php:24
+msgid "Style Customizer"
+msgstr ""
+
+#: ../includes/style-customizer/customizer-functions.php:113
+#: ../includes/style-customizer/customizer-functions.php:132
+msgid "Normal"
+msgstr ""
+
+#: ../includes/style-customizer/customizer-functions.php:114
+msgid "Italic"
+msgstr ""
+
+#: ../includes/style-customizer/customizer-functions.php:115
+msgid "Oblique"
+msgstr ""
+
+#: ../includes/style-customizer/customizer-functions.php:116
+#: ../includes/style-customizer/customizer-functions.php:145
+#: ../includes/style-customizer/customizer-functions.php:195
+msgid "Inherit"
+msgstr ""
+
+#: ../includes/style-customizer/customizer-functions.php:133
+msgid "Bold"
+msgstr ""
+
+#: ../includes/style-customizer/customizer-functions.php:134
+msgid "Bolder"
+msgstr ""
+
+#: ../includes/style-customizer/customizer-functions.php:135
+msgid "Lighter"
+msgstr ""
+
+#: ../includes/style-customizer/customizer-functions.php:191
+msgid "No Repeat"
+msgstr ""
+
+#: ../includes/style-customizer/customizer-functions.php:192
+msgid "Repeat All"
+msgstr ""
+
+#: ../includes/style-customizer/customizer-functions.php:193
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../includes/style-customizer/customizer-functions.php:194
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../includes/style-customizer/customizer-functions.php:211
+msgid "Left Top"
+msgstr ""
+
+#: ../includes/style-customizer/customizer-functions.php:212
+msgid "Left Center"
+msgstr ""
+
+#: ../includes/style-customizer/customizer-functions.php:213
+msgid "Left Bottom"
+msgstr ""
+
+#: ../includes/style-customizer/customizer-functions.php:214
+msgid "Right Top"
+msgstr ""
+
+#: ../includes/style-customizer/customizer-functions.php:215
+msgid "Right Center"
+msgstr ""
+
+#: ../includes/style-customizer/customizer-functions.php:216
+msgid "Right Bottom"
+msgstr ""
+
+#: ../includes/style-customizer/customizer-functions.php:217
+msgid "Center Top"
+msgstr ""
+
+#: ../includes/style-customizer/customizer-functions.php:218
+msgid "Center Center"
+msgstr ""
+
+#: ../includes/style-customizer/customizer-functions.php:219
+msgid "Center Bottom"
+msgstr ""
+
+#: ../includes/style-customizer/sections/content.php:22
+msgid "Content"
+msgstr ""
+
+#: ../includes/style-customizer/sections/content.php:23
+msgid "Customize the styles of content area."
+msgstr ""
+
+#: ../includes/style-customizer/sections/content.php:46
+msgid "Content Heading Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/content.php:60
+msgid "Content Text Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/content.php:88
+msgid "Use custom color for content link"
+msgstr ""
+
+#: ../includes/style-customizer/sections/content.php:98
+#: ../includes/style-customizer/sections/footer.php:154
+#: ../includes/style-customizer/sections/home-slider.php:83
+#: ../includes/style-customizer/sections/menu.php:233
+#: ../includes/style-customizer/sections/sidebar.php:109
+msgid ""
+"By default, the color depends on color scheme that you have set in \"Global"
+"\" section. If you tick this checkbox, the theme will use below option for "
+"the color instead."
+msgstr ""
+
+#: ../includes/style-customizer/sections/content.php:113
+msgid "Content Link Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/content.php:124
+msgid ""
+"Only apply to general text hyperlinks of the content area. (You need to "
+"check the above checkbox to make this option working.)"
+msgstr ""
+
+#: ../includes/style-customizer/sections/content.php:162
+msgid "Content Background Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/content.php:174
+msgid "Content Background Image"
+msgstr ""
+
+#: ../includes/style-customizer/sections/content.php:186
+msgid "Content Background Image Attributes"
+msgstr ""
+
+#: ../includes/style-customizer/sections/footer.php:22
+#: ../includes/theme-options.php:41 ../includes/theme-options.php:758
+msgid "Footer"
+msgstr ""
+
+#: ../includes/style-customizer/sections/footer.php:23
+msgid "Customize the styles of footer area."
+msgstr ""
+
+#: ../includes/style-customizer/sections/footer.php:44
+msgid "Footer Site Logo"
+msgstr ""
+
+#: ../includes/style-customizer/sections/footer.php:90
+msgid "Footer Heading Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/footer.php:104
+msgid "Footer Text Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/footer.php:118
+msgid "Footer Link Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/footer.php:129
+#: ../includes/style-customizer/sections/sidebar.php:84
+msgid "Only apply to general text hyperlinks."
+msgstr ""
+
+#: ../includes/style-customizer/sections/footer.php:144
+msgid "Use custom color for hovered footer link"
+msgstr ""
+
+#: ../includes/style-customizer/sections/footer.php:169
+msgid "Hovered Footer Link Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/footer.php:180
+#: ../includes/style-customizer/sections/sidebar.php:135
+msgid ""
+"Only apply to general text hyperlinks. (You need to check the above checkbox "
+"to make this option working.)"
+msgstr ""
+
+#: ../includes/style-customizer/sections/global.php:23
+msgid "Global"
+msgstr ""
+
+#: ../includes/style-customizer/sections/global.php:24
+msgid "Customize the global styles"
+msgstr ""
+
+#: ../includes/style-customizer/sections/global.php:46
+msgid "Color Scheme"
+msgstr ""
+
+#: ../includes/style-customizer/sections/global.php:50
+msgid "Red"
+msgstr ""
+
+#: ../includes/style-customizer/sections/global.php:51
+msgid "Blue"
+msgstr ""
+
+#: ../includes/style-customizer/sections/global.php:52
+msgid "Gold"
+msgstr ""
+
+#: ../includes/style-customizer/sections/global.php:53
+msgid "Green"
+msgstr ""
+
+#: ../includes/style-customizer/sections/global.php:54
+msgid "Pink"
+msgstr ""
+
+#: ../includes/style-customizer/sections/global.php:55
+msgid "Yellow"
+msgstr ""
+
+#: ../includes/style-customizer/sections/global.php:56
+msgid "Custom (select colors below)"
+msgstr ""
+
+#: ../includes/style-customizer/sections/global.php:66
+msgid ""
+"<p>Color scheme means to assign major color set to elements of the theme. "
+"However, you can also override some element color by individually set the "
+"color option on each section.</p><p>For example, color scheme \"Red\" will "
+"make a content hyperlink red color but you can also use another color for "
+"the link by using \"Content\" section.</p>"
+msgstr ""
+
+#: ../includes/style-customizer/sections/global.php:100
+msgid ""
+"To use colors below, you need to select Color Scheme above as \"Custom\"."
+msgstr ""
+
+#: ../includes/style-customizer/sections/global.php:113
+msgid "Accent Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/global.php:150
+msgid "Primary Font"
+msgstr ""
+
+#: ../includes/style-customizer/sections/global.php:160
+msgid "Primary font is for content headings."
+msgstr ""
+
+#: ../includes/style-customizer/sections/global.php:174
+msgid "Secondary Font"
+msgstr ""
+
+#: ../includes/style-customizer/sections/global.php:184
+msgid "Secondary font is for menu, general content body and widget headings."
+msgstr ""
+
+#: ../includes/style-customizer/sections/header.php:22
+#: ../includes/theme-options.php:763
+msgid "Header"
+msgstr ""
+
+#: ../includes/style-customizer/sections/header.php:23
+msgid "Customize the header styles"
+msgstr ""
+
+#: ../includes/style-customizer/sections/header.php:44
+msgid "Site Logo"
+msgstr ""
+
+#: ../includes/style-customizer/sections/header.php:53
+msgid "If not set, site title will display."
+msgstr ""
+
+#: ../includes/style-customizer/sections/header.php:90
+msgid "Site Title Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/header.php:101
+msgid "This color is for site title (if the logo image is not used)."
+msgstr ""
+
+#: ../includes/style-customizer/sections/header.php:116
+msgid "Site Tagline Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/header.php:127
+msgid "This color is for the site tagline."
+msgstr ""
+
+#: ../includes/style-customizer/sections/home-slider.php:22
+msgid "Customize the styles of default home slider."
+msgstr ""
+
+#: ../includes/style-customizer/sections/home-slider.php:43
+msgid ""
+"<strong>Note:</strong> For other styles like caption color and border color, "
+"you can change them in the edit screen of each slide (using \"Home Slider\" "
+"menu on admin panel)."
+msgstr ""
+
+#: ../includes/style-customizer/sections/home-slider.php:58
+msgid "Controller Base Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/home-slider.php:73
+msgid "Use custom color for hovered controller"
+msgstr ""
+
+#: ../includes/style-customizer/sections/home-slider.php:98
+msgid "Hovered Controller Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/home-slider.php:109
+msgid ""
+"Adjust text color for hovered controller. (You need to check the above "
+"checkbox to make this option working.)"
+msgstr ""
+
+#: ../includes/style-customizer/sections/menu.php:23
+msgid "Customize the menu styles"
+msgstr ""
+
+#: ../includes/style-customizer/sections/menu.php:46
+msgid "Menu Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/menu.php:57
+msgid "Adjust text color for menu items."
+msgstr ""
+
+#: ../includes/style-customizer/sections/menu.php:71
+msgid "Hovered Menu Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/menu.php:82
+msgid "Adjust text color for hovered menu items."
+msgstr ""
+
+#: ../includes/style-customizer/sections/menu.php:96
+msgid "Active Menu Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/menu.php:107
+msgid "Adjust text color for active menu items."
+msgstr ""
+
+#: ../includes/style-customizer/sections/menu.php:145
+msgid "Submenu Background Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/menu.php:156
+msgid "Adjust the background color of submenu panel."
+msgstr ""
+
+#: ../includes/style-customizer/sections/menu.php:171
+msgid "Submenu Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/menu.php:182
+msgid "Adjust text color for submenu items."
+msgstr ""
+
+#: ../includes/style-customizer/sections/menu.php:197
+msgid "Hovered Submenu Background Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/menu.php:208
+msgid "Adjust background color for hovered submenu items."
+msgstr ""
+
+#: ../includes/style-customizer/sections/menu.php:223
+msgid "Use custom color for hovered submenu"
+msgstr ""
+
+#: ../includes/style-customizer/sections/menu.php:248
+msgid "Hovered Submenu Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/menu.php:259
+msgid ""
+"Adjust text color for hovered submenu items. (You need to check the above "
+"checkbox to make this option working.)"
+msgstr ""
+
+#: ../includes/style-customizer/sections/others.php:24
+msgid "Others"
+msgstr ""
+
+#: ../includes/style-customizer/sections/others.php:25
+msgid "Customize the any other styles"
+msgstr ""
+
+#: ../includes/style-customizer/sections/others.php:48
+msgid "Text Selection Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/others.php:72
+msgid "Custom CSS"
+msgstr ""
+
+#: ../includes/style-customizer/sections/others.php:83
+msgid ""
+"<strong>Tip:</strong> If you are using a correct CSS selector but your "
+"custom CSS still doesn't work, try putting \"!important\" tag right after "
+"your CSS property. <a href=\"http://webdesign.about.com/od/css/f/"
+"blcssfaqimportn.htm\" target=\"_blank\">Click here to learn more about \"!"
+"important\"</a>.<p><strong>Note:</strong> After entering the custom CSS, "
+"wait for the preview screen to refresh to see your changes.</p>"
+msgstr ""
+
+#: ../includes/style-customizer/sections/others.php:121
+msgid "Reset Box"
+msgstr ""
+
+#: ../includes/style-customizer/sections/others.php:132
+msgid ""
+"If you want to reset all styles to the default, type \"<strong>reset_styles</"
+"strong>\" into the textbox above and wait until you notice the preview is "
+"refreshed. <p><strong style=\"color: red\">*** After finished typing, the "
+"styles will be reset immediately so please be careful using this!</strong></"
+"p><p><strong>Note:</strong> The style options and preview screen will not be "
+"updated immediately after you finished typing or save, please reload the "
+"page or close this Style Customizer and re-open it again.</p>"
+msgstr ""
+
+#: ../includes/style-customizer/sections/page-intro.php:21
+msgid "Page Intro"
+msgstr ""
+
+#: ../includes/style-customizer/sections/page-intro.php:22
+msgid "Customize the styles of page intro."
+msgstr ""
+
+#: ../includes/style-customizer/sections/page-intro.php:45
+msgid "Intro Title Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/page-intro.php:59
+msgid "Intro Body Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/readme.php:8
+msgid "*** Read Me First ***"
+msgstr ""
+
+#: ../includes/style-customizer/sections/readme.php:20
+msgid ""
+"<strong>Welcome to Style Customizer!</strong><p>Here are some guidelines:</"
+"p><ul id=\"ux-customizer-readme\"><li>The customizer is categorized into "
+"sections. You can use each tab section for customizing the styles and see "
+"the preview on the right.</li><li>In case you want to adjust anything more "
+"than provided options, please apply your CSS in the \"Custom CSS\" box on "
+"the \"Others\" section.</li><li>To use Google Fonts, close this customizer "
+"then go to \"Theme Options > Google Fonts\" to add the fonts you like and "
+"they will be available in the font select lists in the customizer.</li></ul>"
+msgstr ""
+
+#: ../includes/style-customizer/sections/sidebar.php:21
+msgid "Sidebar"
+msgstr ""
+
+#: ../includes/style-customizer/sections/sidebar.php:22
+msgid "Customize the styles of sidebar area."
+msgstr ""
+
+#: ../includes/style-customizer/sections/sidebar.php:45
+msgid "Sidebar Heading Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/sidebar.php:59
+msgid "Sidebar Text Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/sidebar.php:73
+msgid "Sidebar Link Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/sidebar.php:99
+msgid "Use custom color for hovered sidebar link"
+msgstr ""
+
+#: ../includes/style-customizer/sections/sidebar.php:124
+msgid "Hovered Sidebar Link Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/site-background.php:21
+msgid "Site Background"
+msgstr ""
+
+#: ../includes/style-customizer/sections/site-background.php:22
+msgid "Customize the styles of site background"
+msgstr ""
+
+#: ../includes/style-customizer/sections/site-background.php:45
+msgid "Background Color"
+msgstr ""
+
+#: ../includes/style-customizer/sections/site-background.php:57
+msgid "Background Image"
+msgstr ""
+
+#: ../includes/style-customizer/sections/site-background.php:69
+msgid "Background Image Attributes"
+msgstr ""
+
+#: ../includes/style-customizer/sections/site-background.php:109
+msgid "Full Screen Background Image"
+msgstr ""
+
+#: ../includes/style-customizer/sections/site-background.php:124
+msgid ""
+"Whether to make the selected background image stretched to full screen mode."
+msgstr ""
+
+#: ../includes/theme-functions.php:177
+msgid "Header Menu"
+msgstr ""
+
+#: ../includes/theme-functions.php:193 ../includes/theme-options.php:448
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../includes/theme-functions.php:195
+msgid "Blog and archive page widget area."
+msgstr ""
+
+#: ../includes/theme-functions.php:205
+msgid "Search Result Sidebar"
+msgstr ""
+
+#: ../includes/theme-functions.php:207
+msgid "Search result widget area."
+msgstr ""
+
+#: ../includes/theme-functions.php:217
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../includes/theme-functions.php:219
+msgid "Default page widget area."
+msgstr ""
+
+#: ../includes/theme-functions.php:254
+#, php-format
+msgid "Footer Column %d"
+msgstr ""
+
+#: ../includes/theme-functions.php:256
+msgid "Footer widget area."
+msgstr ""
+
+#: ../includes/theme-functions.php:305
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../includes/theme-functions.php:356 ../includes/theme-options.php:1056
+msgid "Twitter URL"
+msgstr ""
+
+#: ../includes/theme-functions.php:357 ../includes/theme-options.php:1028
+msgid "Facebook URL"
+msgstr ""
+
+#: ../includes/theme-functions.php:358 ../includes/theme-options.php:1084
+msgid "Google+ URL"
+msgstr ""
+
+#: ../includes/theme-functions.php:359 ../includes/theme-options.php:1112
+msgid "LinkedIn URL"
+msgstr ""
+
+#: ../includes/theme-functions.php:360 ../includes/theme-options.php:1196
+msgid "Dribbble URL"
+msgstr ""
+
+#: ../includes/theme-functions.php:361 ../includes/theme-options.php:1224
+msgid "Forrst URL"
+msgstr ""
+
+#: ../includes/theme-functions.php:362 ../includes/theme-options.php:1140
+msgid "Flickr URL"
+msgstr ""
+
+#: ../includes/theme-functions.php:480
+msgid "Facebook"
+msgstr ""
+
+#: ../includes/theme-functions.php:481
+msgid "Twitter"
+msgstr ""
+
+#: ../includes/theme-functions.php:482
+msgid "Google+"
+msgstr ""
+
+#: ../includes/theme-functions.php:483
+msgid "LinkedIn"
+msgstr ""
+
+#: ../includes/theme-functions.php:484
+msgid "Flickr"
+msgstr ""
+
+#: ../includes/theme-functions.php:485
+msgid "Behance"
+msgstr ""
+
+#: ../includes/theme-functions.php:486
+msgid "Dribbble"
+msgstr ""
+
+#: ../includes/theme-functions.php:487
+msgid "Forrst"
+msgstr ""
+
+#: ../includes/theme-functions.php:488
+msgid "Vimeo"
+msgstr ""
+
+#: ../includes/theme-functions.php:489
+msgid "YouTube"
+msgstr ""
+
+#: ../includes/theme-functions.php:490
+msgid "Tumblr"
+msgstr ""
+
+#: ../includes/theme-functions.php:491
+msgid "Github"
+msgstr ""
+
+#: ../includes/theme-functions.php:492
+msgid "RSS"
+msgstr ""
+
+#: ../includes/theme-functions.php:849 ../template-blog-meta.php:94
+msgid "0 Comment"
+msgstr ""
+
+#: ../includes/theme-functions.php:851
+msgid " Comments"
+msgstr ""
+
+#: ../includes/theme-options.php:29
+msgid "General"
+msgstr ""
+
+#: ../includes/theme-options.php:37
+msgid "Blog"
+msgstr ""
+
+#: ../includes/theme-options.php:45
+msgid "Social Network"
+msgstr ""
+
+#: ../includes/theme-options.php:49
+msgid "Google Fonts"
+msgstr ""
+
+#: ../includes/theme-options.php:57
+msgid "WPML Plugin"
+msgstr ""
+
+#: ../includes/theme-options.php:61
+msgid "WooCommerce Plugin"
+msgstr ""
+
+#: ../includes/theme-options.php:74
+msgid "Upload Favicon"
+msgstr ""
+
+#: ../includes/theme-options.php:75
+msgid ""
+"Favicon will be displayed on the address bar and tab of the browser. Click "
+"the icon to upload the image or if you already know the URL of the image, "
+"just paste it to the box."
+msgstr ""
+
+#: ../includes/theme-options.php:87
+msgid "Header Style"
+msgstr ""
+
+#: ../includes/theme-options.php:88
+msgid "Select which header style to use."
+msgstr ""
+
+#: ../includes/theme-options.php:99
+msgid "Left logo + columned menus (Default)"
+msgstr ""
+
+#: ../includes/theme-options.php:104
+msgid "Center logo + horizontal menus"
+msgstr ""
+
+#: ../includes/theme-options.php:112
+msgid "Display Tagline?"
+msgstr ""
+
+#: ../includes/theme-options.php:113
+msgid "Whether to display the site tagline under the logo."
+msgstr ""
+
+#: ../includes/theme-options.php:137
+msgid "Display Header Search?"
+msgstr ""
+
+#: ../includes/theme-options.php:138
+msgid "Whether to enable the search feature on the header."
+msgstr ""
+
+#: ../includes/theme-options.php:162
+msgid "Display Back-To-Top Button?"
+msgstr ""
+
+#: ../includes/theme-options.php:163
+msgid "Whether to enable and display back-to-top button."
+msgstr ""
+
+#: ../includes/theme-options.php:187
+msgid "Enable Lightbox for WordPress Gallery?"
+msgstr ""
+
+#: ../includes/theme-options.php:188
+msgid ""
+"Whether to enable lightbox feature for WordPress gallery shortcode. <br/><br/"
+"><strong>Note:</strong> Also make sure that you already set the \"Link To\" "
+"option to \"Media File\" in your gallery shortcode."
+msgstr ""
+
+#: ../includes/theme-options.php:212
+msgid "Enable Page Comment?"
+msgstr ""
+
+#: ../includes/theme-options.php:213
+msgid ""
+"Whether to enable the comment function for all Page by default.<br/><br/"
+">When you have enabled it, please make sure that each Page is also marked as "
+"\"Allow Comments\". You can find that mark from the Quick Edit menu of the "
+"Page."
+msgstr ""
+
+#: ../includes/theme-options.php:242
+msgid "Display Home Slider?"
+msgstr ""
+
+#: ../includes/theme-options.php:243
+msgid "Whether to display the slider on homepage."
+msgstr ""
+
+#: ../includes/theme-options.php:267
+msgid "Slider Type"
+msgstr ""
+
+#: ../includes/theme-options.php:268
+msgid ""
+"Select which slider type you would like to use on homepage:<br/><br/"
+"><strong>Default Slider:</strong> This is the default one. You can use "
+"\"Home Slider\" menu on your admin panel to manage slides for this type.<br/"
+"><br/><strong>LayerSlider:</strong> You can manage sliders using "
+"\"LayerSlider WP\" menu on your admin panel. After you have created some "
+"sliders there, select this option as \"LayerSlider\" then paste the "
+"shortcode of the slider you want into the field below."
+msgstr ""
+
+#: ../includes/theme-options.php:279
+msgid "Default Slider"
+msgstr ""
+
+#: ../includes/theme-options.php:284
+msgid "LayerSlider"
+msgstr ""
+
+#: ../includes/theme-options.php:292
+msgid "Home Slider's Transition Effect"
+msgstr ""
+
+#: ../includes/theme-options.php:293
+msgid "Select the transition for basic slider."
+msgstr ""
+
+#: ../includes/theme-options.php:306
+msgid "Fade"
+msgstr ""
+
+#: ../includes/theme-options.php:319
+msgid "Home Slider's Transition Speed"
+msgstr ""
+
+#: ../includes/theme-options.php:320
+msgid ""
+"Enter a number of how fast you want the transition to animate, in "
+"milliseconds."
+msgstr ""
+
+#: ../includes/theme-options.php:334
+msgid "Enable Home Slider's Auto Rotation?"
+msgstr ""
+
+#: ../includes/theme-options.php:335
+msgid "Whether to enable the auto rotation mode for the slider."
+msgstr ""
+
+#: ../includes/theme-options.php:361
+msgid "Home Slider's Rotation Delay"
+msgstr ""
+
+#: ../includes/theme-options.php:362
+msgid ""
+"Enter a number of how long to stay on the current slide before rotating to "
+"the next one, in milliseconds."
+msgstr ""
+
+#: ../includes/theme-options.php:376
+msgid "Enable Home Slider's Caption Animation?"
+msgstr ""
+
+#: ../includes/theme-options.php:377
+msgid "Whether to enable the fade animation for the slider caption."
+msgstr ""
+
+#: ../includes/theme-options.php:403
+msgid "LayerSlider Shortcode"
+msgstr ""
+
+#: ../includes/theme-options.php:404
+msgid ""
+"Paste the shortcode of the slider that you have created in \"LayerSlider WP"
+"\" menu. For example, [layerslider id=\"1\"]<br/><br/>Make sure you have "
+"already installed and activated the LayerSlider plugin."
+msgstr ""
+
+#: ../includes/theme-options.php:423
+msgid "Enable Zooming Effect on Blog Thumbnail?"
+msgstr ""
+
+#: ../includes/theme-options.php:424
+msgid ""
+"Whether to enable the zooming effect when hovering the mouse on the blog "
+"thumbnail on blog list page."
+msgstr ""
+
+#: ../includes/theme-options.php:449
+msgid ""
+"Select how the blog sidebar displayed on the blog page (Posts page). You can "
+"manage its widgets in \"Appearance > Widgets > Blog Sidebar\""
+msgstr ""
+
+#: ../includes/theme-options.php:460
+msgid "Hide blog sidebar"
+msgstr ""
+
+#: ../includes/theme-options.php:478
+msgid "Override Post Meta Info?"
+msgstr ""
+
+#: ../includes/theme-options.php:479
+msgid ""
+"Whether to override the meta info custom fields of all individual posts with "
+"this global setting."
+msgstr ""
+
+#: ../includes/theme-options.php:670
+msgid "Display Footer Widget Area?"
+msgstr ""
+
+#: ../includes/theme-options.php:671
+msgid "Whether to display the widget area in footer."
+msgstr ""
+
+#: ../includes/theme-options.php:695
+msgid "Footer Widget Area Columns"
+msgstr ""
+
+#: ../includes/theme-options.php:696
+msgid "Select a number of columns for the footer widget area."
+msgstr ""
+
+#: ../includes/theme-options.php:707
+msgid "1 Column"
+msgstr ""
+
+#: ../includes/theme-options.php:712
+msgid "2 Columns"
+msgstr ""
+
+#: ../includes/theme-options.php:730
+msgid "Copyright Text"
+msgstr ""
+
+#: ../includes/theme-options.php:731
+msgid ""
+"This copyright text will be displayed in the footer below the widget area."
+"<br/><br/><strong>Important: </strong>If you use some HTML tag like anchor "
+"tag for a link, make sure to have the opening and closing tag properly."
+msgstr ""
+
+#: ../includes/theme-options.php:746
+msgid "Location"
+msgstr ""
+
+#: ../includes/theme-options.php:747
+msgid "Select the location for displaying the social icons."
+msgstr ""
+
+#: ../includes/theme-options.php:768
+msgid "Header and Footer"
+msgstr ""
+
+#: ../includes/theme-options.php:773
+msgid "Nowhere"
+msgstr ""
+
+#: ../includes/theme-options.php:781
+msgid "Social Icon Type"
+msgstr ""
+
+#: ../includes/theme-options.php:782
+msgid ""
+"You can choose to use either image or icon font from Font Awesome for the "
+"social network icons."
+msgstr ""
+
+#: ../includes/theme-options.php:793
+msgid "Image Icon"
+msgstr ""
+
+#: ../includes/theme-options.php:798
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: ../includes/theme-options.php:806
+msgid "Font Awesome Icons"
+msgstr ""
+
+#: ../includes/theme-options.php:807
+msgid ""
+"You can use this option to create your own list of social network icon from "
+"Font Awesome. Just click \"Add New\", enter the title, URL and select the "
+"icon. You can also rearrange the positions using drag-and-drop feature here."
+msgstr ""
+
+#: ../includes/theme-options.php:821 ../includes/theme-options.php:997
+msgid "URL"
+msgstr ""
+
+#: ../includes/theme-options.php:822 ../includes/theme-options.php:998
+msgid "Enter the URL of your social network for this icon"
+msgstr ""
+
+#: ../includes/theme-options.php:835
+msgid "Select Icon"
+msgstr ""
+
+#: ../includes/theme-options.php:836
+msgid ""
+"Select an icon from the list or select \"Custom\" to manually enter the icon "
+"class name."
+msgstr ""
+
+#: ../includes/theme-options.php:937
+msgid "Custom Icon's Class Name"
+msgstr ""
+
+#: ../includes/theme-options.php:938
+#, php-format
+msgid ""
+"Enter the class name. You can view the full list of the class names here: %s"
+msgstr ""
+
+#: ../includes/theme-options.php:955
+msgid "Image Icon Set"
+msgstr ""
+
+#: ../includes/theme-options.php:956
+msgid ""
+"Select whether to use the default built-in set or create your own set for "
+"the social icons."
+msgstr ""
+
+#: ../includes/theme-options.php:969
+msgid "Default Set"
+msgstr ""
+
+#: ../includes/theme-options.php:974
+msgid "Custom Set"
+msgstr ""
+
+#: ../includes/theme-options.php:982
+msgid "Custom Image Icons"
+msgstr ""
+
+#: ../includes/theme-options.php:983
+msgid ""
+"You can use this option to add your own list of social network icon. Just "
+"click \"Add New\", enter the title, URL and upload the icon image. You can "
+"also rearrange the positions using drag-and-drop feature here."
+msgstr ""
+
+#: ../includes/theme-options.php:1011
+msgid "Icon"
+msgstr ""
+
+#: ../includes/theme-options.php:1012
+msgid "Upload an image for this social icon"
+msgstr ""
+
+#: ../includes/theme-options.php:1042
+msgid "Facebook Icon"
+msgstr ""
+
+#: ../includes/theme-options.php:1043 ../includes/theme-options.php:1071
+#: ../includes/theme-options.php:1099 ../includes/theme-options.php:1127
+#: ../includes/theme-options.php:1155 ../includes/theme-options.php:1183
+#: ../includes/theme-options.php:1211 ../includes/theme-options.php:1239
+#: ../includes/theme-options.php:1267 ../includes/theme-options.php:1295
+#: ../includes/theme-options.php:1323 ../includes/theme-options.php:1351
+#: ../includes/theme-options.php:1379
+msgid "You can leave it blank to use theme's default icon."
+msgstr ""
+
+#: ../includes/theme-options.php:1070
+msgid "Twitter Icon"
+msgstr ""
+
+#: ../includes/theme-options.php:1098
+msgid "Google+ Icon"
+msgstr ""
+
+#: ../includes/theme-options.php:1126
+msgid "LinkedIn Icon"
+msgstr ""
+
+#: ../includes/theme-options.php:1154
+msgid "Flickr Icon"
+msgstr ""
+
+#: ../includes/theme-options.php:1168
+msgid "Behance URL"
+msgstr ""
+
+#: ../includes/theme-options.php:1182
+msgid "Behance Icon"
+msgstr ""
+
+#: ../includes/theme-options.php:1210
+msgid "Dribbble Icon"
+msgstr ""
+
+#: ../includes/theme-options.php:1238
+msgid "Forrst Icon"
+msgstr ""
+
+#: ../includes/theme-options.php:1252
+msgid "Vimeo URL"
+msgstr ""
+
+#: ../includes/theme-options.php:1266
+msgid "Vimeo Icon"
+msgstr ""
+
+#: ../includes/theme-options.php:1280
+msgid "YouTube URL"
+msgstr ""
+
+#: ../includes/theme-options.php:1294
+msgid "YouTube Icon"
+msgstr ""
+
+#: ../includes/theme-options.php:1308
+msgid "Tumblr URL"
+msgstr ""
+
+#: ../includes/theme-options.php:1322
+msgid "Tumblr Icon"
+msgstr ""
+
+#: ../includes/theme-options.php:1336
+msgid "Github URL"
+msgstr ""
+
+#: ../includes/theme-options.php:1350
+msgid "Github Icon"
+msgstr ""
+
+#: ../includes/theme-options.php:1364
+msgid "RSS URL"
+msgstr ""
+
+#: ../includes/theme-options.php:1378
+msgid "RSS Icon"
+msgstr ""
+
+#: ../includes/theme-options.php:1397
+msgid "Google Fonts Loader"
+msgstr ""
+
+#: ../includes/theme-options.php:1398
+msgid ""
+"To enable Google Fonts selection, please go to <a href=\"http://www.google."
+"com/webfonts#\" target=\"_blank\">Google Web Fonts website</a>, select the "
+"fonts you like, copy the family list then paste them to this textbox. After "
+"that simply press \"Save Changes\" button and the fonts will be loaded to "
+"all font select lists in Style Customizer.<br/><br/>Please read more detail "
+"about this in the provided documentation under the section of \"Getting "
+"Started > Google Fonts\".</p>"
+msgstr ""
+
+#: ../includes/theme-options.php:1409
+msgid "Character Sets"
+msgstr ""
+
+#: ../includes/theme-options.php:1410
+msgid ""
+"Choose the character sets you want. If you are not sure, just leave them "
+"unchecked as default."
+msgstr ""
+
+#: ../includes/theme-options.php:1421
+msgid "Latin (latin)"
+msgstr ""
+
+#: ../includes/theme-options.php:1426
+msgid "Latin Extended (latin-ext)"
+msgstr ""
+
+#: ../includes/theme-options.php:1431
+msgid "Cyrillic (cyrillic)"
+msgstr ""
+
+#: ../includes/theme-options.php:1436
+msgid "Cyrillic Extended (cyrillic-ext)"
+msgstr ""
+
+#: ../includes/theme-options.php:1441
+msgid "Greek (greek)"
+msgstr ""
+
+#: ../includes/theme-options.php:1446
+msgid "Greek Extended (greek-ext)"
+msgstr ""
+
+#: ../includes/theme-options.php:1451
+msgid "Vietnamese (vietnamese)"
+msgstr ""
+
+#: ../includes/theme-options.php:1464
+msgid "API Key"
+msgstr ""
+
+#: ../includes/theme-options.php:1465
+#, php-format
+msgid ""
+"If the Google Maps element does not work on your domain as it generates an "
+"error, it means that an additional API key is required. <a href=\"%s\" "
+"target=\"_blank\">Click here to get your API key from Google</a>. After "
+"that, put the key into this text box and save."
+msgstr ""
+
+#: ../includes/theme-options.php:1481
+msgid "Display WPML Language Selector?"
+msgstr ""
+
+#: ../includes/theme-options.php:1482
+msgid ""
+"If WPML is activated, use this option to display the WPML language selector "
+"in the header location defined by theme. <br/><br/><strong>Note: </"
+"strong>Theme will use the configuration that you set in \"WPML > Languages > "
+"Language switcher options\"."
+msgstr ""
+
+#: ../includes/theme-options.php:1511
+msgid ""
+"If WooCommerce is activated, use this option to display the sidebar on shop "
+"page. <br/><br/>You can manage the widgets of this sidebar by going to "
+"\"Appearance > Widgets\" menu and look for \"Shop Page Sidebar\" widget area."
+msgstr ""
+
+#: ../includes/theme-options.php:1522
+msgid "Hide shop sidebar"
+msgstr ""
+
+#: ../includes/theme-options.php:1539
+msgid "Number of Columns on Shop Page"
+msgstr ""
+
+#: ../includes/theme-options.php:1540
+msgid ""
+"Select the number columns to use on shop page and archive page. This option "
+"is for working with WooCommerce plugin only."
+msgstr ""
+
+#: ../includes/theme-options.php:1563
+msgid "Number of Products Per Page on Shop Page"
+msgstr ""
+
+#: ../includes/theme-options.php:1564
+msgid ""
+"Enter the number of products per page to use on shop page and archive page. "
+"This option is for working with WooCommerce plugin only."
+msgstr ""
+
+#: ../includes/theme-options.php:1575
+msgid "Display Related Products?"
+msgstr ""
+
+#: ../includes/theme-options.php:1576
+msgid ""
+"Whether to display Related Products section on product single page. This "
+"option is for working with WooCommerce plugin only."
+msgstr ""
+
+#: ../includes/theme-options.php:1599
+msgid "Max Number of Related Products"
+msgstr ""
+
+#: ../includes/theme-options.php:1600
+msgid ""
+"Enter the max number of related products to be displayed on product single "
+"page. This option is for working with WooCommerce plugin only.<br/><br/>Note "
+"that this is the \"maximum\" number so the products may be sometimes "
+"displayed less than this number but not more than. It is controlled by "
+"WooCommerce plugin itself."
+msgstr ""
+
+#: ../index.php:79
+msgid "Sticky Post"
+msgstr ""
+
+#: ../index.php:96
+msgid "Read More"
+msgstr ""
+
+#: ../index.php:110
+msgid "Sorry, there are no posts available."
+msgstr ""
+
+#: ../search.php:54
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: ../search.php:56
+msgid "Please try other categories or search again."
+msgstr ""
+
+#: ../searchform-404.php:4
+msgid "Search ..."
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Type and hit enter ..."
+msgstr ""
+
+#: ../single.php:80
+msgid "Pages:"
+msgstr ""
+
+#: ../single.php:131
+msgid "About "
+msgstr ""
+
+#: ../single.php:184
+msgid "Tags"
+msgstr ""
+
+#: ../template-blog-meta.php:63
+msgid "Author"
+msgstr ""
+
+#: ../template-blog-meta.php:71
+msgid "Categories"
+msgstr ""
+
+#: ../template-blog-meta.php:94
+msgid "Discussion"
+msgstr ""
+
+#: ../template-intro.php:12 ../template-intro.php:41
+msgid "Tag:"
+msgstr ""
+
+#: ../template-intro.php:14
+msgid "Archive:"
+msgstr ""
+
+#: ../template-intro.php:18
+msgid "Search:"
+msgstr ""
+
+#: ../template-intro.php:22
+msgid "Author:"
+msgstr ""
+
+#: ../template-intro.php:34 ../template-intro.php:39
+msgid "Category:"
+msgstr ""
+
+#: ../updated_vc_templates/vc_gmaps.php:32
+msgid "Error: Function \"vc_map_get_attributes()\" does not exist"
+msgstr ""
+
+#: ../updated_vc_templates/vc_posts_grid.php:18
+msgid "Cannot generate Blog Posts element. Categories must be defined."
+msgstr ""
+
+#: ../uxb_templates/single-portfolio.php:385
+msgid "Related Works"
+msgstr ""
+
+#: ../uxb_templates/single-portfolio.php:460
+msgid "OptionTree plugin must be installed and activated first."
+msgstr ""

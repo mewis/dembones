@@ -1,0 +1,30 @@
+
+#uxb-layout-hint {
+	display: inline-block;
+	float: left;
+	font-size: 12px;
+    margin: 17px 0 17px 18px;
+    text-decoration: none;
+}
+
+/* hide any empty tabs */
+#tab_ {
+	display: none;
+}
+
+
+.option-tree-setting .description a {
+    text-decoration: underline;
+}
+
+
+
+/***** UXbarn Portfolio *****/
+/*** Hide some options of the plugin **
+#setting_uxb_port_po_single_page_slider_transition,
+#setting_uxb_port_po_single_page_slider_transition_speed,
+#setting_uxb_port_po_single_page_slider_auto_rotation,
+#setting_uxb_port_po_single_page_slider_rotation_duration {
+	display: none !important;
+}
+*/

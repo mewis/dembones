@@ -1,0 +1,10 @@
+
+/* Hide default description of Layout */
+.toplevel_page_ot-settings #option-tree-settings-api #section_layouts .description {
+	display: none;
+}
+
+/* Display custom description for Layout */
+.toplevel_page_ot-settings #option-tree-settings-api #section_layouts .description.uxb-description {
+	display: block;
+}

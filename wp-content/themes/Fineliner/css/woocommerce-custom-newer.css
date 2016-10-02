@@ -1,0 +1,117 @@
+.woocommerce .variations tr:first-child td {
+    padding-top: 15px;
+}
+
+
+/***** Specific styles for WooCommerce later than v2.1 *****/
+
+.woocommerce-review-link {
+    float: right;
+    font-size: 12px;
+    clear: both;
+}
+
+#ship-to-different-address {
+    font-family: inherit !important;
+    letter-spacing: inherit !important;
+    font-size: 14px !important;
+    text-transform: none !important;
+    margin-bottom: 26px !important;
+}
+
+#ship-to-different-address label {
+    display: inline-block;
+}
+
+#ship-to-different-address-checkbox {
+    float: left;
+    margin: 3px 8px 0 0;
+}
+
+
+/***** Since WooCommerce v2.3 *****/
+
+/*** Cart ***/
+.woocommerce .cart-collaterals .cart_totals, 
+.woocommerce-page .cart-collaterals .cart_totals {
+    float: none;
+    margin: 20px 0 100px;
+    text-align: left;
+}
+
+.woocommerce .cart-collaterals .cart_totals table, 
+.woocommerce-page .cart-collaterals .cart_totals table {
+    margin-bottom: 20px;
+}
+
+.woocommerce-page .cart-collaterals .cart_totals table th,
+.woocommerce-page .cart-collaterals .cart_totals table td {
+    border: 0;
+    border-bottom: 1px solid #eee;
+    vertical-align: top;
+}
+
+section.shipping-calculator-form {
+    padding-right: 20px;
+}
+
+.cart-tab dd.variation-Color {
+    margin: 0;
+    padding: 0;
+}
+
+#theme-body .cart-tab dt.variation-Color {
+    clear: none;
+    width: auto;
+    text-align: left;
+}
+
+#theme-body .cart-tab dt.variation-Color:after {
+    content: '';
+}
+
+.wc-layered-nav-term .count {
+    margin-left: 5px;
+}
+
+
+.cart-tab.right a.cart-parent {
+    width: 10em;
+    left: -10em;
+}
+
+.cart-tab.left a.cart-parent {
+    width: 10em;
+    right: -10em;
+}
+
+
+
+/*** Products ***/
+#wooc-content-container ul.products li.product h3, #wooc-content-container .woocommerce-page ul.products li.product h3,
+#content-container .woocommerce .cart-collaterals .cross-sells ul.products li h3, #content-container .woocommerce-page .cart-collaterals .cross-sells ul.products li h3,
+#content-container .woocommerce ul.products li.product h3 {
+    margin: 20px 15px 5px;
+}
+
+.woocommerce .products .star-rating, .woocommerce-page .products .star-rating {
+    margin: 0 0 0 15px;
+}
+
+.woocommerce ul.products li.product .price, .woocommerce-page ul.products li.product .price {
+    margin: 0 0 0 15px;
+}
+
+/*** Checkout ***/
+#root-container .select2-container .select2-choice {
+    color: inherit;
+    font-weight: normal;
+    padding: 0.4em;
+    border: 1px solid #bebebe;
+    border-radius: 0;
+}
+
+
+a.about_paypal {
+    margin-left: 20px;
+}
